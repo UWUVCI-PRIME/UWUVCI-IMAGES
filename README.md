@@ -8,6 +8,7 @@ Image files for use in Ultimate Wii U VC Injector.
 * Folder structure should be console/productcode/<files>
 * Please only use the same file types for bootimages 
   (example: iconTex.tga and bootTvTex.tga is okay, but iconTex.tga and bootTvTex.jpg is not)
+* Make sure that the folder always contains atleast the iconTex and bootTvTex. It should not be only one of them
 
 ## Credits:
 * UWUVCI App (by NICOAICP)
