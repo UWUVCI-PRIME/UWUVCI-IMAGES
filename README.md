@@ -13,4 +13,4 @@ Image files for use in Ultimate Wii U VC Injector.
 ## Credits:
 * UWUVCI App (by NICOAICP)
 * Original Images (by cucholix)
-* Additional Images (by Flump & ZestyTS)
+* Additional Images (by Flump, ZestyTS, Vague Rant)
