@@ -14,4 +14,4 @@ Image files for use in Ultimate Wii U VC Injector.
 * UWUVCI App (by NICOAICP & ZestyTS)
 * Original Images (by cucholix)
 * Repo Mergers (by Flump & ZestyTS)
-* Community Submissions (UWUVCI-ContriBot [Created by ZestyTS])
+* Community Submissions (by UWUVCI-ContriBot [Developed by ZestyTS])
